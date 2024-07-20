@@ -1,0 +1,15 @@
+{
+    "clientVersionCode": 12,
+    "clientSampVersionCode": 1,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "http://141.11.158.175/data/irommanzing/data/game.zip",
+    "URL_GAME_FILES_UPD" : "http://141.11.158.175/data/irommanzing/files_upd.zip",
+	"URL_FILE_DOWNLOAD" : "http://141.11.158.175/data/irommanzing/files.zip",
+    "URL_VK": "http://www.gta-irz.com/",
+    "URL_DISCORD": "https://discord.gg/PCP4SzSV",
+    "URL_YOUTUBE": "https://www.youtube.com/@IRONMANZING",
+    "URL_FACEBOOK": "https://www.facebook.com/GTAIRZ",
+    "URL_DONATE": "http://www.gta-irz.com/",
+    "URL_CLIENT": "http://141.11.158.175/data/irommanzing/client.apk",
+    "URL_CLIENTSAMPAPK": "http://141.11.158.175/data/irommanzing/client1.apk"
+}
